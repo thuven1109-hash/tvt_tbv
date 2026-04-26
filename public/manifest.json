@@ -1,0 +1,17 @@
+{
+  "name": "nhà họ Trịnh",
+  "short_name": "Thái & Vạn",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF0F5",
+  "theme_color": "#ff99cc",
+  "description": "Đừng vì một người đờn bà mà làm rạn nứt tình cảm cha con!",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/u/0/d/1KE3Hy8yZo5qIyGBLbjQoEI-ITH5t2Ga2",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
