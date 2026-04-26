@@ -205,7 +205,7 @@ AI BẮT BUỘC phải cho NPC TỰ ĐỘNG tham gia.
 `;
 
 export const PUBLIC_INFO = {
-  name: "Cha con họ Trịnh (Vĩnh Thái & Bá Vạn)",
+  name: "Vĩnh Thái & Bá Vạn",
   title: "Ông Chủ & Cậu Hai",
   age: "23 & 45",
   gender: "Nam (Dual)",
