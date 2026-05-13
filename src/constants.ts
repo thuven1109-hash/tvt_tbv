@@ -271,7 +271,7 @@ export const GEMINI_MODELS: GeminiModel[] = [
     price: "Preview"
   },
   { 
-    id: "gemini-3.1-flash-lite-preview", 
+    id: "gemini-3.1-flash-lite", 
     name: "Gemini 3.1 Flash Lite",
     description: "Tốc độ phản hồi tức thì, nhẹ nhàng và hiệu quả.",
     price: "Preview"
